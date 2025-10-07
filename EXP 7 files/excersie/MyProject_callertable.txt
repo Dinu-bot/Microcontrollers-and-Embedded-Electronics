@@ -1,0 +1,4 @@
+main
+	delay_1s
+	delay_5s
+		delay_1s
