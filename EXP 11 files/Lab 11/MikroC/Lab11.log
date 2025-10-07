@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo8 -N"E:\UOK\UOK notes\Year 03\Sem 05\ELEC LAB\Lab 11\MikroC\Lab11.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\UOK\UOK notes\Year 03\Sem 05\ELEC LAB\Lab 11\MikroC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Lab11.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Keypad4x4.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	Lab11.c
+diagnostics: 134	123	Compiled Successfully	Lab11.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 80 (38%)  Free RAM (bytes): 128 (62%)	Used RAM (bytes): 80 (38%)  Free RAM (bytes): 128 (62%)
+hint: 0	1144	Used ROM (program words): 1463 (71%)  Free ROM (program words): 585 (29%)	Used ROM (program words): 1463 (71%)  Free ROM (program words): 585 (29%)
+diagnostics: 0	125	Project Linked Successfully	Lab11.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Lab11.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 06 Jun 2025, 14:58:38	Lab11.mcppi
